@@ -1,0 +1,8 @@
+    body {
+        color: #fff;
+        background: #2819fc url(./img/bg.png);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: contain;
+        background-position: left bottom;
+    }
